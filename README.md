@@ -1,4 +1,4 @@
-# alphabet-gesture-recognition
+# Alphabet Gesture Recognition using Mediapipe
 
 In order to run the project you have to install all the dependencies contained in _requirements.txt_
 
